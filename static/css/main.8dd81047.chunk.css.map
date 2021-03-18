@@ -1,0 +1,1 @@
+{"version":3,"sources":["CommentList.scss"],"names":[],"mappings":"AAAA,aACE,qBAAuB,CACvB,iBAAkB,CAClB,qBAAsB,CAEtB,oBACE,iBAAkB,CAClB,cAAe","file":"main.8dd81047.chunk.css","sourcesContent":[".commentlist {\n  border: 1px solid black;\n  border-radius: 5px;\n  background-color: gray;\n\n  &__title {\n    text-align: center;\n    font-size: 20px;\n  }\n}\n"]}
